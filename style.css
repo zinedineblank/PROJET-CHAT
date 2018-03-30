@@ -1,0 +1,100 @@
+* {
+  background-color: #f4f4ed;
+}
+
+
+.titre1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.ve {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.ligne1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+  font-family: cursive;
+
+}
+
+.ligne1 li {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 130px;
+  height: 25px;
+  box-shadow: 5px 5px 5px grey;
+}
+.ligne2 li {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 130px;
+  height: 25px;
+  box-shadow: 5px 5px 5px grey;
+}
+.ligne3 li {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 130px;
+  height: 25px;
+  box-shadow: 5px 5px 5px grey;
+}
+.ligne4 li {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 130px;
+  height: 25px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.ligne2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+  font-family: cursive;
+}
+
+.ligne3 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+  font-family: cursive;
+}
+
+.ligne4 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+  font-family: cursive;
+}
+
+.sommaire {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.bouton {
+  text-align: center;
+  border: 2px solid black;
+  width: 170px;
+
+}
